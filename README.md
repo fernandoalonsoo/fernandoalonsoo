@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="left">Proyects at:</h3>
+<p align="center"><a href="https://www.42madrid.com/" target="_blank"><img height="100" src="https://user-images.githubusercontent.com/123759990/222996320-ba730dc4-b0dc-4f5c-aabd-d077e3b2b638.png""></a></p>
+<div align="center" style="display: inline_block">
+  <a href="https://github.com/fernandoalonsoo/libft" target="_blank">
+    <img align="center" alt="Libft"  height="100" src="https://user-images.githubusercontent.com/123759990/222992943-816974fc-0048-4e9d-a50f-ddece0633b42.png">
+  </a>
+</div>
