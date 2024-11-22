@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img width="896" alt="FernandoSoftware42" src="https://github.com/user-attachments/assets/bc200a7b-50b9-4710-9f6a-2975faa85874">
+
 <div align="center">
   <a href="https://www.linkedin.com/in/fernandoalonsoo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -27,3 +29,13 @@ Here are some ideas to get you started:
     <img align="center" alt="Libft"  height="100" src="https://user-images.githubusercontent.com/123759990/222992943-816974fc-0048-4e9d-a50f-ddece0633b42.png">
   </a>
 </div>
+
+<td style="border: none;">
+
+<br>
+<br>
+
+| 💻 Project | 📝 Readme | 💯 Score |
+|:------:|:-------:|:------------------:|
+| **📚 Libft** | [![Readme](https://img.shields.io/badge/Libft-0077B5)](https://github.com/fernandoalonsoo/libft) | [![125](https://img.shields.io/badge/125-2ea44f)]() |
+</td>
