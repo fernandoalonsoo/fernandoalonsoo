@@ -28,6 +28,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/fernandoalonsoo/libft" target="_blank">
     <img align="center" alt="Libft"  height="100" src="https://user-images.githubusercontent.com/123759990/222992943-816974fc-0048-4e9d-a50f-ddece0633b42.png">
   </a>
+  <a href="https://github.com/fernandoalonsoo/ft_printf" target="_blank">
+    <img align="center" alt="get_next_line"  height="100" src="https://user-images.githubusercontent.com/123759990/230787654-f610615d-d974-41b7-877e-7827e9a5f22e.png">
+  </a>
 </div>
 
 <td style="border: none;">
@@ -38,4 +41,5 @@ Here are some ideas to get you started:
 | 💻 Project | 📝 Readme | 💯 Score |
 |:------:|:-------:|:------------------:|
 | **📚 Libft** | [![Readme](https://img.shields.io/badge/Libft-0077B5)](https://github.com/fernandoalonsoo/libft) | [![125](https://img.shields.io/badge/125-2ea44f)]() |
+| **✏️ ft_printf** | [![Readme](https://img.shields.io/badge/ft_printf-0077B5)](https://github.com/fernandoalonsoo/ft_printf) | [![100](https://img.shields.io/badge/100-2ea44f)]() |
 </td>
