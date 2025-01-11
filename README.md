@@ -29,7 +29,13 @@ Here are some ideas to get you started:
     <img align="center" alt="Libft"  height="100" src="https://user-images.githubusercontent.com/123759990/222992943-816974fc-0048-4e9d-a50f-ddece0633b42.png">
   </a>
   <a href="https://github.com/fernandoalonsoo/ft_printf" target="_blank">
-    <img align="center" alt="get_next_line"  height="100" src="https://user-images.githubusercontent.com/123759990/230787654-f610615d-d974-41b7-877e-7827e9a5f22e.png">
+    <img align="center" alt="ft_printf"  height="100" src="https://user-images.githubusercontent.com/123759990/230787654-f610615d-d974-41b7-877e-7827e9a5f22e.png">
+  </a>
+  <a href="https://github.com/fernandoalonsoo/get_next_line" target="_blank">
+    <img align="center" alt="get_next_line"  height="100" src="https://user-images.githubusercontent.com/123759990/222993022-6acab917-6074-4014-a84a-dc94e7bb547d.png">
+  </a>
+    <a href="https://github.com/fernandoalonsoo/Born2beRoot" target="_blank">
+    <img align="center" alt="Born2beRoot"  height="100" src="https://user-images.githubusercontent.com/123759990/229471675-fe9d5029-f09e-4d43-b83c-dc14d736ad2a.png">
   </a>
 </div>
 
@@ -42,4 +48,6 @@ Here are some ideas to get you started:
 |:------:|:-------:|:------------------:|
 | **📚 Libft** | [![Readme](https://img.shields.io/badge/Libft-0077B5)](https://github.com/fernandoalonsoo/libft) | [![125](https://img.shields.io/badge/125-2ea44f)]() |
 | **✏️ ft_printf** | [![Readme](https://img.shields.io/badge/ft_printf-0077B5)](https://github.com/fernandoalonsoo/ft_printf) | [![100](https://img.shields.io/badge/100-2ea44f)]() |
+| **✏ get_next_line** | [![Readme](https://img.shields.io/badge/get_next_line-0077B5)](https://github.com/fernandoalonsoo/get_next_line) | [![125](https://img.shields.io/badge/125-2ea44f)]() |
+| **🌱 Born2beRoot** | [![Readme](https://img.shields.io/badge/Born2beRoot-0077B5)](https://github.com/fernandoalonsoo/Born2beRoot) | [![125](https://img.shields.io/badge/125-2ea44f)]() |
 </td>
