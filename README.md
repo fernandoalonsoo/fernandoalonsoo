@@ -48,6 +48,6 @@ Here are some ideas to get you started:
 |:------:|:-------:|:------------------:|
 | **📚 Libft** | [![Readme](https://img.shields.io/badge/Libft-0077B5)](https://github.com/fernandoalonsoo/libft) | [![125](https://img.shields.io/badge/125-2ea44f)]() |
 | **✏️ ft_printf** | [![Readme](https://img.shields.io/badge/ft_printf-0077B5)](https://github.com/fernandoalonsoo/ft_printf) | [![100](https://img.shields.io/badge/100-2ea44f)]() |
-| **✏ get_next_line** | [![Readme](https://img.shields.io/badge/get_next_line-0077B5)](https://github.com/fernandoalonsoo/get_next_line) | [![125](https://img.shields.io/badge/125-2ea44f)]() |
+| **➖ get_next_line** | [![Readme](https://img.shields.io/badge/get_next_line-0077B5)](https://github.com/fernandoalonsoo/get_next_line) | [![125](https://img.shields.io/badge/125-2ea44f)]() |
 | **🌱 Born2beRoot** | [![Readme](https://img.shields.io/badge/Born2beRoot-0077B5)](https://github.com/fernandoalonsoo/Born2beRoot) | [![125](https://img.shields.io/badge/125-2ea44f)]() |
 </td>
