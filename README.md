@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="896" alt="FernandoSoftware42" src="https://github.com/user-attachments/assets/bc200a7b-50b9-4710-9f6a-2975faa85874">
-
 <div align="center">
   <a href="https://www.linkedin.com/in/fernandoalonsoo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
